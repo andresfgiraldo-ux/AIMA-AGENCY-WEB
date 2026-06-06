@@ -1,0 +1,67 @@
+{
+  "marcas": [
+    {
+      "id": "aima-agency",
+      "nombre": "AIMA Agency",
+      "instagram": "aimaagency.co",
+      "nicho": "Marketing Digital con IA para negocios colombianos",
+      "identidad_visual": "Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante",
+      "audiencia": "Emprendedores, empresas 50-500 empleados, 25-45 años, Colombia",
+      "voz_marca": "Profesional, directo, con humor tech, inspirador",
+      "servicios": [
+        "Landing Pages",
+        "SEO Auditoría",
+        "Optimización Instagram",
+        "Prospección B2B",
+        "Google Ads",
+        "Estrategia de contenido"
+      ],
+      "tipos_contenido": {
+        "educativo": "Tips de marketing, SEO, redes sociales, casos de éxito",
+        "fomo": "Ofertas limitadas, descuentos, urgencia, nuevos servicios",
+        "comercial": "Call-to-action, contacto, consultas gratis",
+        "venta": "Testimonios, resultados, propuestas cerradas"
+      },
+      "horarios_publicacion": ["09:00"],
+      "frecuencia_contenido": {
+        "educativo": 2,
+        "fomo": 1,
+        "comercial": 1,
+        "venta": 1
+      },
+      "colores_brand": ["#4F46E5", "#06B6D4", "#7C3AED", "#EEF2FF"],
+      "instagram_token": "CONFIGURABLE_EN_SECRETS"
+    },
+    {
+      "id": "club-del-hincha",
+      "nombre": "Club del Hincha",
+      "instagram": "clubdelhincha.co",
+      "nicho": "Comunidades de hinchas, contenido futbolero viral",
+      "identidad_visual": "Pasionario, energético, colores rojo/blanco (#E31E24), dinámico",
+      "audiencia": "Hinchas 15-55 años, Colombia, apasionados por fútbol",
+      "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera",
+      "contenido_focus": [
+        "Noticias del fútbol colombiano",
+        "Memes y humor futbolero",
+        "Encuestas sobre equipos",
+        "Historias de hinchas",
+        "Análisis táctico"
+      ],
+      "tipos_contenido": {
+        "educativo": "Historia del fútbol, datos curiosos, análisis táctico",
+        "fomo": "Partidos en vivo, momentos clave, trending topics",
+        "comercial": "Merchandise, evento comunidad, votaciones",
+        "venta": "Afiliaciones, eventos exclusivos, suscripciones"
+      },
+      "horarios_publicacion": ["09:00", "14:30", "19:00"],
+      "frecuencia_contenido": {
+        "educativo": 1,
+        "fomo": 2,
+        "comercial": 1,
+        "venta": 1
+      },
+      "colores_brand": ["#E31E24", "#FFFFFF", "#1A1A1A", "#FFD700"],
+      "instagram_token": "CONFIGURABLE_EN_SECRETS"
+    }
+  ]
+}
