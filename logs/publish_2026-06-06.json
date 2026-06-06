@@ -3,36 +3,17 @@
     "marca": "AIMA Agency",
     "marca_id": "aima-agency",
     "content_type": "comercial",
-    "asset_url": "mock://higgsfield/aima-agency_1780757870983.jpg",
+    "asset_url": "mock://higgsfield/aima-agency_1780757978432.jpg",
     "caption_preview": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5] [#06B6D4] [#7C",
     "publish_status": "ready_to_publish",
-    "timestamp": "2026-06-06T14:57:50.984Z",
+    "timestamp": "2026-06-06T14:59:38.433Z",
     "mcp_payload": {
       "connector": "instagram_organic",
       "action": "create_post",
       "account": "EAAiyjPu9w38BRumRaoUTLEUVSgo5LttlyW7ZB8lYxpSNOf1tUyOF7NyWvjpfjlP4ZBoy7LCkkIxim5um1oyDvGwyZA4ZBdoxN0ivCU5lnllupOEortOKzOCCSOSJtBqth9ZCnJFREQJ2bWWX9LNRMpcUQ5KDnImHZCZBc8PWZCP0Llinr0YuoMQzHUgEx859UeJZBMXV2KO8KcymcFA3gWBzlxARZAJsRk5hU8wDcjVd7ZClRYNzeq4LJwZD",
       "params": {
-        "image_url": "mock://higgsfield/aima-agency_1780757870983.jpg",
+        "image_url": "mock://higgsfield/aima-agency_1780757978432.jpg",
         "caption": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5] [#06B6D4] [#7C3AED] [#EEF2FF]",
-        "media_type": "IMAGE"
-      }
-    }
-  },
-  {
-    "marca": "Club del Hincha",
-    "marca_id": "club-del-hincha",
-    "content_type": "comercial",
-    "asset_url": "mock://higgsfield/club-del-hincha_1780757871040.jpg",
-    "caption_preview": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24] [#FFFFFF] [#",
-    "publish_status": "ready_to_publish",
-    "timestamp": "2026-06-06T14:57:51.040Z",
-    "mcp_payload": {
-      "connector": "instagram_organic",
-      "action": "create_post",
-      "account": "EAAiyjPu9w38BRn8fnfbkZCU8tkCBSguX7aPXxNZCIkUe60KHl3W4YUA9qZAq92EMPGOGHSWFIozzIKoKG1dnOGFp3fqgsRIy2Vqz0ULlJkinL6YVki6wviZB2MzmZC74wbeGIuSbrmIA5iAVCLE3tTJ8QOikbXUI94z9ShhQZCNmegzDE0xcv9zK0kHEI1KNePQ14o2coKPRZBGj6y4dfL8SzogdWZBtFM968ZAk308cAjYJDb7oTKQsZD",
-      "params": {
-        "image_url": "mock://higgsfield/club-del-hincha_1780757871040.jpg",
-        "caption": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24] [#FFFFFF] [#1A1A1A] [#FFD700]",
         "media_type": "IMAGE"
       }
     }
