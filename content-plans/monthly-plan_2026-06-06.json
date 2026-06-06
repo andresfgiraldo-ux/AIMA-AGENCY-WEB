@@ -1,0 +1,1040 @@
+[
+  {
+    "marca": "AIMA Agency",
+    "marca_id": "aima-agency",
+    "mes": "junio de 2026",
+    "instagram": "aimaagency.co",
+    "logo_original": "AIMA Agency logo (original file from brand assets)",
+    "dias": [
+      {
+        "dia": 1,
+        "fecha": "1/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "reel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram REEL (15-30 seconds):\n- Include the ORIGINAL AIMA Agency logo prominently\n- Content: Tips de marketing, SEO, redes sociales, casos de éxito\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: informativo y útil\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "📚 Tips de marketing, SEO, redes sociales, casos de éxito\n\nAprende más →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 2,
+        "fecha": "2/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "historia",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram STORY for AIMA Agency:\n- Include ORIGINAL AIMA Agency LOGO at top\n- Duration: 5-15 seconds\n- Content: Ofertas limitadas, descuentos, urgencia, nuevos servicios\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Interactive element (poll, question, quiz)\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1920px",
+        "caption": "🔥 Ofertas limitadas, descuentos, urgencia, nuevos servicios\n\nNo te lo pierdas →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 3,
+        "fecha": "3/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "reel",
+        "herramienta_recomendada": "Adobe Express",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram REEL (15-30 seconds):\n- Include the ORIGINAL AIMA Agency logo prominently\n- Content: Call-to-action, contacto, consultas gratis\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: profesional y convincente\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 4,
+        "fecha": "4/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL AIMA Agency LOGO\n- Remaining slides: Visual storytelling of \"Testimonios, resultados, propuestas cerradas\"\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: directo y motivador\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Contáctanos\"",
+        "caption": "🚀 Testimonios, resultados, propuestas cerradas\n\nContáctanos →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 5,
+        "fecha": "5/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL AIMA Agency LOGO\n- Remaining slides: Visual storytelling of \"Tips de marketing, SEO, redes sociales, casos de éxito\"\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: informativo y útil\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Aprende más\"",
+        "caption": "📚 Tips de marketing, SEO, redes sociales, casos de éxito\n\nAprende más →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 6,
+        "fecha": "6/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "historia",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram STORY for AIMA Agency:\n- Include ORIGINAL AIMA Agency LOGO at top\n- Duration: 5-15 seconds\n- Content: Ofertas limitadas, descuentos, urgencia, nuevos servicios\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Interactive element (poll, question, quiz)\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1920px",
+        "caption": "🔥 Ofertas limitadas, descuentos, urgencia, nuevos servicios\n\nNo te lo pierdas →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 7,
+        "fecha": "7/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Adobe Express",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL AIMA Agency LOGO\n- Remaining slides: Visual storytelling of \"Call-to-action, contacto, consultas gratis\"\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: profesional y convincente\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Descubre cómo\"",
+        "caption": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 8,
+        "fecha": "8/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL AIMA Agency LOGO\n- Remaining slides: Visual storytelling of \"Testimonios, resultados, propuestas cerradas\"\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: directo y motivador\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Contáctanos\"",
+        "caption": "🚀 Testimonios, resultados, propuestas cerradas\n\nContáctanos →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 9,
+        "fecha": "9/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL AIMA Agency LOGO\n- Remaining slides: Visual storytelling of \"Tips de marketing, SEO, redes sociales, casos de éxito\"\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: informativo y útil\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Aprende más\"",
+        "caption": "📚 Tips de marketing, SEO, redes sociales, casos de éxito\n\nAprende más →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 10,
+        "fecha": "10/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "post",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Ofertas limitadas, descuentos, urgencia, nuevos servicios\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: urgente y emocionante\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "🔥 Ofertas limitadas, descuentos, urgencia, nuevos servicios\n\nNo te lo pierdas →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 11,
+        "fecha": "11/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Adobe Express",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL AIMA Agency LOGO\n- Remaining slides: Visual storytelling of \"Call-to-action, contacto, consultas gratis\"\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: profesional y convincente\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Descubre cómo\"",
+        "caption": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 12,
+        "fecha": "12/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL AIMA Agency LOGO\n- Remaining slides: Visual storytelling of \"Testimonios, resultados, propuestas cerradas\"\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: directo y motivador\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Contáctanos\"",
+        "caption": "🚀 Testimonios, resultados, propuestas cerradas\n\nContáctanos →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 13,
+        "fecha": "13/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "post",
+        "herramienta_recomendada": "Adobe Express",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Tips de marketing, SEO, redes sociales, casos de éxito\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: informativo y útil\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "📚 Tips de marketing, SEO, redes sociales, casos de éxito\n\nAprende más →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 14,
+        "fecha": "14/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "historia",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram STORY for AIMA Agency:\n- Include ORIGINAL AIMA Agency LOGO at top\n- Duration: 5-15 seconds\n- Content: Ofertas limitadas, descuentos, urgencia, nuevos servicios\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Interactive element (poll, question, quiz)\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1920px",
+        "caption": "🔥 Ofertas limitadas, descuentos, urgencia, nuevos servicios\n\nNo te lo pierdas →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 15,
+        "fecha": "15/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "post",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Call-to-action, contacto, consultas gratis\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: profesional y convincente\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 16,
+        "fecha": "16/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL AIMA Agency LOGO\n- Remaining slides: Visual storytelling of \"Testimonios, resultados, propuestas cerradas\"\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: directo y motivador\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Contáctanos\"",
+        "caption": "🚀 Testimonios, resultados, propuestas cerradas\n\nContáctanos →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 17,
+        "fecha": "17/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "post",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Tips de marketing, SEO, redes sociales, casos de éxito\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: informativo y útil\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "📚 Tips de marketing, SEO, redes sociales, casos de éxito\n\nAprende más →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 18,
+        "fecha": "18/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "post",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Ofertas limitadas, descuentos, urgencia, nuevos servicios\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: urgente y emocionante\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "🔥 Ofertas limitadas, descuentos, urgencia, nuevos servicios\n\nNo te lo pierdas →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 19,
+        "fecha": "19/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "reel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram REEL (15-30 seconds):\n- Include the ORIGINAL AIMA Agency logo prominently\n- Content: Call-to-action, contacto, consultas gratis\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: profesional y convincente\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 20,
+        "fecha": "20/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "reel",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram REEL (15-30 seconds):\n- Include the ORIGINAL AIMA Agency logo prominently\n- Content: Testimonios, resultados, propuestas cerradas\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: directo y motivador\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "🚀 Testimonios, resultados, propuestas cerradas\n\nContáctanos →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 21,
+        "fecha": "21/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "post",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Tips de marketing, SEO, redes sociales, casos de éxito\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: informativo y útil\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "📚 Tips de marketing, SEO, redes sociales, casos de éxito\n\nAprende más →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 22,
+        "fecha": "22/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "historia",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram STORY for AIMA Agency:\n- Include ORIGINAL AIMA Agency LOGO at top\n- Duration: 5-15 seconds\n- Content: Ofertas limitadas, descuentos, urgencia, nuevos servicios\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Interactive element (poll, question, quiz)\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1920px",
+        "caption": "🔥 Ofertas limitadas, descuentos, urgencia, nuevos servicios\n\nNo te lo pierdas →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 23,
+        "fecha": "23/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "reel",
+        "herramienta_recomendada": "Adobe Express",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram REEL (15-30 seconds):\n- Include the ORIGINAL AIMA Agency logo prominently\n- Content: Call-to-action, contacto, consultas gratis\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: profesional y convincente\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 24,
+        "fecha": "24/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "post",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Testimonios, resultados, propuestas cerradas\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: directo y motivador\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "🚀 Testimonios, resultados, propuestas cerradas\n\nContáctanos →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 25,
+        "fecha": "25/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "post",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Tips de marketing, SEO, redes sociales, casos de éxito\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: informativo y útil\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "📚 Tips de marketing, SEO, redes sociales, casos de éxito\n\nAprende más →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 26,
+        "fecha": "26/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "historia",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram STORY for AIMA Agency:\n- Include ORIGINAL AIMA Agency LOGO at top\n- Duration: 5-15 seconds\n- Content: Ofertas limitadas, descuentos, urgencia, nuevos servicios\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Interactive element (poll, question, quiz)\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1920px",
+        "caption": "🔥 Ofertas limitadas, descuentos, urgencia, nuevos servicios\n\nNo te lo pierdas →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 27,
+        "fecha": "27/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "post",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Call-to-action, contacto, consultas gratis\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: profesional y convincente\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 28,
+        "fecha": "28/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "carrusel",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL AIMA Agency LOGO\n- Remaining slides: Visual storytelling of \"Testimonios, resultados, propuestas cerradas\"\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: directo y motivador\n- Brand colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Contáctanos\"",
+        "caption": "🚀 Testimonios, resultados, propuestas cerradas\n\nContáctanos →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 29,
+        "fecha": "29/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "reel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create a AIMA Agency Instagram REEL (15-30 seconds):\n- Include the ORIGINAL AIMA Agency logo prominently\n- Content: Tips de marketing, SEO, redes sociales, casos de éxito\n- Style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: informativo y útil\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "📚 Tips de marketing, SEO, redes sociales, casos de éxito\n\nAprende más →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      },
+      {
+        "dia": 30,
+        "fecha": "30/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "post",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de AIMA Agency",
+        "prompt": "Create an Instagram POST for AIMA Agency:\n- INCLUDE ORIGINAL AIMA Agency LOGO in the design\n- Content theme: Ofertas limitadas, descuentos, urgencia, nuevos servicios\n- Visual style: Moderno, tech, colores: Indigo (#4F46E5), Cyan (#06B6D4), elegante\n- Tone: urgente y emocionante\n- Brand voice: \"Profesional, directo, con humor tech, inspirador\"\n- Dominant colors: #4F46E5, #06B6D4, #7C3AED, #EEF2FF\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "🔥 Ofertas limitadas, descuentos, urgencia, nuevos servicios\n\nNo te lo pierdas →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+        "colores_brand": [
+          "#4F46E5",
+          "#06B6D4",
+          "#7C3AED",
+          "#EEF2FF"
+        ],
+        "voz_marca": "Profesional, directo, con humor tech, inspirador"
+      }
+    ]
+  },
+  {
+    "marca": "Club del Hincha",
+    "marca_id": "club-del-hincha",
+    "mes": "junio de 2026",
+    "instagram": "clubdelhincha.co",
+    "logo_original": "Club del Hincha logo (original file from brand assets)",
+    "dias": [
+      {
+        "dia": 1,
+        "fecha": "1/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "post",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram POST for Club del Hincha:\n- INCLUDE ORIGINAL Club del Hincha LOGO in the design\n- Content theme: Historia del fútbol, datos curiosos, análisis táctico\n- Visual style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: informativo y útil\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Dominant colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "📚 Historia del fútbol, datos curiosos, análisis táctico\n\nAprende más →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 2,
+        "fecha": "2/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "historia",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram STORY for Club del Hincha:\n- Include ORIGINAL Club del Hincha LOGO at top\n- Duration: 5-15 seconds\n- Content: Partidos en vivo, momentos clave, trending topics\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Interactive element (poll, question, quiz)\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1920px",
+        "caption": "🔥 Partidos en vivo, momentos clave, trending topics\n\nNo te lo pierdas →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 3,
+        "fecha": "3/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "reel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Merchandise, evento comunidad, votaciones\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: profesional y convincente\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 4,
+        "fecha": "4/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "post",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram POST for Club del Hincha:\n- INCLUDE ORIGINAL Club del Hincha LOGO in the design\n- Content theme: Afiliaciones, eventos exclusivos, suscripciones\n- Visual style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: directo y motivador\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Dominant colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "🚀 Afiliaciones, eventos exclusivos, suscripciones\n\nContáctanos →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 5,
+        "fecha": "5/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL Club del Hincha LOGO\n- Remaining slides: Visual storytelling of \"Historia del fútbol, datos curiosos, análisis táctico\"\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: informativo y útil\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Aprende más\"",
+        "caption": "📚 Historia del fútbol, datos curiosos, análisis táctico\n\nAprende más →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 6,
+        "fecha": "6/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "reel",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Partidos en vivo, momentos clave, trending topics\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: urgente y emocionante\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "🔥 Partidos en vivo, momentos clave, trending topics\n\nNo te lo pierdas →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 7,
+        "fecha": "7/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "reel",
+        "herramienta_recomendada": "Adobe Express",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Merchandise, evento comunidad, votaciones\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: profesional y convincente\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 8,
+        "fecha": "8/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "post",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram POST for Club del Hincha:\n- INCLUDE ORIGINAL Club del Hincha LOGO in the design\n- Content theme: Afiliaciones, eventos exclusivos, suscripciones\n- Visual style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: directo y motivador\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Dominant colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "🚀 Afiliaciones, eventos exclusivos, suscripciones\n\nContáctanos →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 9,
+        "fecha": "9/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "reel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Historia del fútbol, datos curiosos, análisis táctico\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: informativo y útil\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "📚 Historia del fútbol, datos curiosos, análisis táctico\n\nAprende más →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 10,
+        "fecha": "10/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "historia",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram STORY for Club del Hincha:\n- Include ORIGINAL Club del Hincha LOGO at top\n- Duration: 5-15 seconds\n- Content: Partidos en vivo, momentos clave, trending topics\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Interactive element (poll, question, quiz)\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1920px",
+        "caption": "🔥 Partidos en vivo, momentos clave, trending topics\n\nNo te lo pierdas →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 11,
+        "fecha": "11/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Adobe Express",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL Club del Hincha LOGO\n- Remaining slides: Visual storytelling of \"Merchandise, evento comunidad, votaciones\"\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: profesional y convincente\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Descubre cómo\"",
+        "caption": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 12,
+        "fecha": "12/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL Club del Hincha LOGO\n- Remaining slides: Visual storytelling of \"Afiliaciones, eventos exclusivos, suscripciones\"\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: directo y motivador\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Contáctanos\"",
+        "caption": "🚀 Afiliaciones, eventos exclusivos, suscripciones\n\nContáctanos →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 13,
+        "fecha": "13/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "reel",
+        "herramienta_recomendada": "Adobe Express",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Historia del fútbol, datos curiosos, análisis táctico\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: informativo y útil\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "📚 Historia del fútbol, datos curiosos, análisis táctico\n\nAprende más →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 14,
+        "fecha": "14/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "historia",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram STORY for Club del Hincha:\n- Include ORIGINAL Club del Hincha LOGO at top\n- Duration: 5-15 seconds\n- Content: Partidos en vivo, momentos clave, trending topics\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Interactive element (poll, question, quiz)\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1920px",
+        "caption": "🔥 Partidos en vivo, momentos clave, trending topics\n\nNo te lo pierdas →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 15,
+        "fecha": "15/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "post",
+        "herramienta_recomendada": "Adobe Express",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram POST for Club del Hincha:\n- INCLUDE ORIGINAL Club del Hincha LOGO in the design\n- Content theme: Merchandise, evento comunidad, votaciones\n- Visual style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: profesional y convincente\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Dominant colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 16,
+        "fecha": "16/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "post",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram POST for Club del Hincha:\n- INCLUDE ORIGINAL Club del Hincha LOGO in the design\n- Content theme: Afiliaciones, eventos exclusivos, suscripciones\n- Visual style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: directo y motivador\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Dominant colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "🚀 Afiliaciones, eventos exclusivos, suscripciones\n\nContáctanos →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 17,
+        "fecha": "17/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "reel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Historia del fútbol, datos curiosos, análisis táctico\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: informativo y útil\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "📚 Historia del fútbol, datos curiosos, análisis táctico\n\nAprende más →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 18,
+        "fecha": "18/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "reel",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Partidos en vivo, momentos clave, trending topics\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: urgente y emocionante\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "🔥 Partidos en vivo, momentos clave, trending topics\n\nNo te lo pierdas →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 19,
+        "fecha": "19/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL Club del Hincha LOGO\n- Remaining slides: Visual storytelling of \"Merchandise, evento comunidad, votaciones\"\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: profesional y convincente\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Descubre cómo\"",
+        "caption": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 20,
+        "fecha": "20/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "reel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Afiliaciones, eventos exclusivos, suscripciones\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: directo y motivador\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "🚀 Afiliaciones, eventos exclusivos, suscripciones\n\nContáctanos →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 21,
+        "fecha": "21/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL Club del Hincha LOGO\n- Remaining slides: Visual storytelling of \"Historia del fútbol, datos curiosos, análisis táctico\"\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: informativo y útil\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Aprende más\"",
+        "caption": "📚 Historia del fútbol, datos curiosos, análisis táctico\n\nAprende más →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 22,
+        "fecha": "22/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "historia",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram STORY for Club del Hincha:\n- Include ORIGINAL Club del Hincha LOGO at top\n- Duration: 5-15 seconds\n- Content: Partidos en vivo, momentos clave, trending topics\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Interactive element (poll, question, quiz)\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1920px",
+        "caption": "🔥 Partidos en vivo, momentos clave, trending topics\n\nNo te lo pierdas →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 23,
+        "fecha": "23/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "post",
+        "herramienta_recomendada": "Canva",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram POST for Club del Hincha:\n- INCLUDE ORIGINAL Club del Hincha LOGO in the design\n- Content theme: Merchandise, evento comunidad, votaciones\n- Visual style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: profesional y convincente\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Dominant colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 24,
+        "fecha": "24/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "carrusel",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL Club del Hincha LOGO\n- Remaining slides: Visual storytelling of \"Afiliaciones, eventos exclusivos, suscripciones\"\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: directo y motivador\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Contáctanos\"",
+        "caption": "🚀 Afiliaciones, eventos exclusivos, suscripciones\n\nContáctanos →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 25,
+        "fecha": "25/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "reel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Historia del fútbol, datos curiosos, análisis táctico\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: informativo y útil\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "📚 Historia del fútbol, datos curiosos, análisis táctico\n\nAprende más →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 26,
+        "fecha": "26/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "post",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create an Instagram POST for Club del Hincha:\n- INCLUDE ORIGINAL Club del Hincha LOGO in the design\n- Content theme: Partidos en vivo, momentos clave, trending topics\n- Visual style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: urgente y emocionante\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Dominant colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Dimension: 1080x1350px\n- High quality, professional, on-brand",
+        "caption": "🔥 Partidos en vivo, momentos clave, trending topics\n\nNo te lo pierdas →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 27,
+        "fecha": "27/6/2026",
+        "tipo_contenido": "comercial",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL Club del Hincha LOGO\n- Remaining slides: Visual storytelling of \"Merchandise, evento comunidad, votaciones\"\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: profesional y convincente\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Descubre cómo\"",
+        "caption": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 28,
+        "fecha": "28/6/2026",
+        "tipo_contenido": "venta",
+        "formato": "reel",
+        "herramienta_recomendada": "CapCut",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Afiliaciones, eventos exclusivos, suscripciones\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: directo y motivador\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "🚀 Afiliaciones, eventos exclusivos, suscripciones\n\nContáctanos →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 29,
+        "fecha": "29/6/2026",
+        "tipo_contenido": "educativo",
+        "formato": "carrusel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram CAROUSEL (3-5 slides):\n- Slide 1: INCLUDE ORIGINAL Club del Hincha LOGO\n- Remaining slides: Visual storytelling of \"Historia del fútbol, datos curiosos, análisis táctico\"\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: informativo y útil\n- Brand colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Each slide: 1080x1350px\n- Call to action on last slide: \"Aprende más\"",
+        "caption": "📚 Historia del fútbol, datos curiosos, análisis táctico\n\nAprende más →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      },
+      {
+        "dia": 30,
+        "fecha": "30/6/2026",
+        "tipo_contenido": "fomo",
+        "formato": "reel",
+        "herramienta_recomendada": "Higgsfield",
+        "logo_original": "✅ DEBE INCLUIR el logo original de Club del Hincha",
+        "prompt": "Create a Club del Hincha Instagram REEL (15-30 seconds):\n- Include the ORIGINAL Club del Hincha logo prominently\n- Content: Partidos en vivo, momentos clave, trending topics\n- Style: Pasionario, energético, colores rojo/blanco (#E31E24), dinámico\n- Tone: urgente y emocionante\n- Brand voice: \"Apasionado, irreverente, viral, memes, emoción futbolera\"\n- Colors: #E31E24, #FFFFFF, #1A1A1A, #FFD700\n- Goal: Viral, engaging, mobile-optimized\n- Platform: Instagram Reels (1080x1920px)",
+        "caption": "🔥 Partidos en vivo, momentos clave, trending topics\n\nNo te lo pierdas →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+        "colores_brand": [
+          "#E31E24",
+          "#FFFFFF",
+          "#1A1A1A",
+          "#FFD700"
+        ],
+        "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera"
+      }
+    ]
+  }
+]
