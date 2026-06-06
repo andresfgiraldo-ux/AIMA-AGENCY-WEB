@@ -3,18 +3,18 @@
     "marca": "AIMA Agency",
     "marca_id": "aima-agency",
     "content_type": "comercial",
-    "asset_url": "mock://higgsfield/aima-agency_1780755604519.jpg",
+    "asset_url": "mock://higgsfield/aima-agency_1780757321891.jpg",
     "caption_preview": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5] [#06B6D4] [#7C",
     "publish_status": "dry_run_success",
-    "timestamp": "2026-06-06T14:20:04.520Z"
+    "timestamp": "2026-06-06T14:48:41.891Z"
   },
   {
     "marca": "Club del Hincha",
     "marca_id": "club-del-hincha",
     "content_type": "comercial",
-    "asset_url": "mock://higgsfield/club-del-hincha_1780755604578.jpg",
+    "asset_url": "mock://higgsfield/club-del-hincha_1780757321943.jpg",
     "caption_preview": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24] [#FFFFFF] [#",
     "publish_status": "dry_run_success",
-    "timestamp": "2026-06-06T14:20:04.578Z"
+    "timestamp": "2026-06-06T14:48:41.943Z"
   }
 ]
