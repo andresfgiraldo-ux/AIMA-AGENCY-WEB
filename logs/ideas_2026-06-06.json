@@ -1,0 +1,34 @@
+[
+  {
+    "marca": "AIMA Agency",
+    "marca_id": "aima-agency",
+    "tipo": "comercial",
+    "idea": "Call-to-action, contacto, consultas gratis",
+    "idea_hint": "Presenta servicios, destaca beneficios, call-to-action claro",
+    "caption": "💼 Call-to-action, contacto, consultas gratis\n\nDescubre cómo →\n\n#AIMAAgency\n[#4F46E5]\n[#06B6D4]\n[#7C3AED]\n[#EEF2FF]",
+    "colores_brand": [
+      "#4F46E5",
+      "#06B6D4",
+      "#7C3AED",
+      "#EEF2FF"
+    ],
+    "voz_marca": "Profesional, directo, con humor tech, inspirador",
+    "timestamp": "2026-06-06T16:30:47.330Z"
+  },
+  {
+    "marca": "Club del Hincha",
+    "marca_id": "club-del-hincha",
+    "tipo": "comercial",
+    "idea": "Merchandise, evento comunidad, votaciones",
+    "idea_hint": "Presenta servicios, destaca beneficios, call-to-action claro",
+    "caption": "💼 Merchandise, evento comunidad, votaciones\n\nDescubre cómo →\n\n#ClubdelHincha\n[#E31E24]\n[#FFFFFF]\n[#1A1A1A]\n[#FFD700]",
+    "colores_brand": [
+      "#E31E24",
+      "#FFFFFF",
+      "#1A1A1A",
+      "#FFD700"
+    ],
+    "voz_marca": "Apasionado, irreverente, viral, memes, emoción futbolera",
+    "timestamp": "2026-06-06T16:30:47.330Z"
+  }
+]

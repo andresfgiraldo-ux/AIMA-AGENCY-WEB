@@ -1,39 +1,48 @@
 #!/usr/bin/env node
 
 /**
- * Content Creator Agent
- * Genera contenido diario para marcas usando Higgsfield + publica en Instagram
+ * AIMA Content Agent - Idea & Caption Generator
+ *
+ * Genera:
+ * ✅ Ideas de contenido inteligentes
+ * ✅ Captions profesionales
+ *
+ * El usuario luego:
+ * 👉 Genera imagen en Higgsfield, Canva, o herramienta preferida
+ * 👉 Publica en Instagram manualmente o via API
  */
 
 import fs from 'fs';
 import path from 'path';
-import { execSync } from 'child_process';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const MARCAS_PATH = path.join(__dirname, '../data/marcas.json');
 
-// Tipos de contenido y sus características
 const CONTENT_TYPES = {
   educativo: {
-    emojis: ['📚', '💡', '🎓', '📖'],
+    emoji: '📚',
     cta: 'Aprende más',
-    tone: 'informativo y útil'
+    tone: 'informativo y útil',
+    idea_hint: 'Comparte tips, datos curiosos, casos de éxito, análisis, tutoriales'
   },
   fomo: {
-    emojis: ['🔥', '⚡', '🎯', '⏰'],
+    emoji: '🔥',
     cta: 'No te lo pierdas',
-    tone: 'urgente y emocionante'
+    tone: 'urgente y emocionante',
+    idea_hint: 'Ofertas limitadas, urgencia, promociones, trending topics'
   },
   comercial: {
-    emojis: ['💼', '🎁', '📢', '👇'],
+    emoji: '💼',
     cta: 'Descubre cómo',
-    tone: 'profesional y convincente'
+    tone: 'profesional y convincente',
+    idea_hint: 'Presenta servicios, destaca beneficios, call-to-action claro'
   },
   venta: {
-    emojis: ['🚀', '✅', '💰', '🎉'],
+    emoji: '🚀',
     cta: 'Contáctanos',
-    tone: 'directo y motivador'
+    tone: 'directo y motivador',
+    idea_hint: 'Testimonios, resultados, propuestas cerradas, conversión'
   }
 };
 
@@ -53,188 +62,100 @@ class ContentCreatorAgent {
   }
 
   getDayOfWeek() {
-    return new Date().getDay(); // 0-6
+    return new Date().getDay();
   }
 
   selectContentType(marca) {
-    // Seleccionar contenido basado en la marca y el día
     const dayOfWeek = this.getDayOfWeek();
     const tipos = Object.keys(marca.tipos_contenido);
-
-    // Rotar tipos según el día
-    const selectedType = tipos[dayOfWeek % tipos.length];
-    return selectedType;
+    return tipos[dayOfWeek % tipos.length];
   }
 
-  generateContentBrief(marca, contentType) {
+  generateIdea(marca, contentType) {
     const typeInfo = CONTENT_TYPES[contentType];
     const description = marca.tipos_contenido[contentType];
 
-    const brief = {
+    return {
       marca: marca.nombre,
+      marca_id: marca.id,
       tipo: contentType,
       descripcion: description,
-      emojis: typeInfo.emojis,
-      cta: typeInfo.cta,
+      idea_hint: typeInfo.idea_hint,
       tone: typeInfo.tone,
-      colors: marca.colores_brand,
-      timestamp: new Date().toISOString()
+      emoji: typeInfo.emoji,
+      colores_brand: marca.colores_brand,
+      voz_marca: marca.voz_marca,
+      nicho: marca.nicho
     };
-
-    return brief;
   }
 
-  generatePromptForHiggsfield(marca, brief) {
-    const emoji = brief.emojis[Math.floor(Math.random() * brief.emojis.length)];
-
-    let prompt = `Create an Instagram post design for "${marca.nombre}"\n`;
-    prompt += `Niche: ${marca.nicho}\n`;
-    prompt += `Content Type: ${brief.tipo} (${brief.tone})\n`;
-    prompt += `Description: ${brief.descripcion}\n`;
-    prompt += `Call to Action: ${brief.cta}\n`;
-    prompt += `Brand Colors: ${brief.colors.join(', ')}\n`;
-    prompt += `Brand Voice: ${marca.voz_marca}\n`;
-    prompt += `Emoji: ${emoji}\n`;
-    prompt += `Platform: Instagram (1080x1350px or 1080x1080px)\n`;
-    prompt += `Style: Professional, on-brand, mobile-first, engaging\n`;
-
-    return prompt;
-  }
-
-  async generateWithHiggsfield(marca, brief) {
-    console.log(`\n🎨 Generating content with Higgsfield for ${marca.nombre}...`);
-
-    try {
-      const prompt = this.generatePromptForHiggsfield(marca, brief);
-
-      // Crear archivo de prompt temporal
-      const promptFile = `/tmp/prompt_${marca.id}_${Date.now()}.txt`;
-      fs.writeFileSync(promptFile, prompt);
-
-      console.log('📝 Prompt:', prompt);
-      console.log('\n⚠️  Note: Higgsfield generation requires authentication');
-      console.log('Run: higgsfield auth login\n');
-
-      // Mock response (en producción, llamar a Higgsfield API)
-      const mockAsset = {
-        marca_id: marca.id,
-        tipo: brief.tipo,
-        prompt: prompt,
-        status: 'ready',
-        asset_url: `mock://higgsfield/${marca.id}_${Date.now()}.jpg`,
-        ready_to_publish: true
-      };
-
-      fs.unlinkSync(promptFile);
-      return mockAsset;
-    } catch (error) {
-      console.error('Error generating with Higgsfield:', error.message);
-      throw error;
-    }
-  }
-
-  formatCaption(marca, brief, asset) {
-    const emoji = brief.emojis[0];
+  generateCaption(marca, idea) {
     const lines = [
-      emoji + ' ' + brief.descripcion,
+      idea.emoji + ' ' + idea.descripcion,
       '',
-      brief.cta + ' →',
+      CONTENT_TYPES[idea.tipo].cta + ' →',
       '',
       `#${marca.nombre.replace(/\s+/g, '')}`,
-      ...brief.colors.map(c => `[${c}]`)
+      ...idea.colores_brand.map(c => `[${c}]`)
     ];
 
     return lines.join('\n');
   }
 
-  async publishToInstagram(marca, asset, caption) {
-    console.log(`\n📲 Publishing to Instagram: @${marca.instagram}`);
-    console.log(`Caption:\n${caption}\n`);
-
-    const publishData = {
-      marca_id: marca.id,
-      instagram_handle: marca.instagram,
-      asset_url: asset.asset_url,
-      caption: caption,
-      published_at: new Date().toISOString(),
-      connector: 'instagram_organic',
-      action: 'create_post',
-      params: {
-        image_url: asset.asset_url,
-        caption: caption,
-        media_type: 'IMAGE'
-      }
-    };
-
-    // Windsor.ai integration ready
-    // Call this with MCP tool: mcp__047c11d0-0925-4d64-8074-146e7a6585fd__execute_action
-    // With params: connector='instagram_organic', action='create_post', account=marca.instagram_token, params={...}
-
-    if (marca.instagram_token && marca.instagram_token !== 'CONFIGURABLE_EN_SECRETS') {
-      console.log('🔗 Windsor.ai payload ready for execution');
-    } else {
-      console.log('⚠️  Set Instagram token in marcas.json to enable publishing');
-    }
-
-    return publishData;
-  }
-
-  async processMarc(marcaId) {
+  async processMarca(marcaId) {
     const marca = this.marcas.find(m => m.id === marcaId);
     if (!marca) {
       console.error(`Marca ${marcaId} not found`);
       return null;
     }
 
-    console.log(`\n${'='.repeat(60)}`);
-    console.log(`📱 Processing: ${marca.nombre}`);
-    console.log(`${'='.repeat(60)}`);
+    console.log(`\n${'='.repeat(70)}`);
+    console.log(`📱 ${marca.nombre.toUpperCase()}`);
+    console.log(`${'='.repeat(70)}`);
 
-    // 1. Seleccionar tipo de contenido
     const contentType = this.selectContentType(marca);
-    console.log(`\n📌 Content Type: ${contentType}`);
+    const idea = this.generateIdea(marca, contentType);
+    const caption = this.generateCaption(marca, idea);
 
-    // 2. Generar brief
-    const brief = this.generateContentBrief(marca, contentType);
-    console.log(`✅ Brief generated`);
-
-    // 3. Generar con Higgsfield
-    const asset = await this.generateWithHiggsfield(marca, brief);
-    console.log(`✅ Asset generated`);
-
-    // 4. Crear caption
-    const caption = this.formatCaption(marca, brief, asset);
-
-    // 5. Publicar
-    const published = await this.publishToInstagram(marca, asset, caption);
-    console.log(`✅ Published (mock)`);
+    console.log(`\n🎯 Tipo de contenido: ${contentType}`);
+    console.log(`\n💡 IDEA:`);
+    console.log(`   ${idea.idea_hint}`);
+    console.log(`\n📝 CAPTION:`);
+    console.log(`${caption}`);
+    console.log(`\n🎨 COLORS PARA LA IMAGEN:`);
+    console.log(`   ${idea.colores_brand.join(' | ')}`);
+    console.log(`\n📋 VOZ DE MARCA:`);
+    console.log(`   "${idea.voz_marca}"`);
 
     return {
       marca: marca.nombre,
-      contentType,
-      brief,
-      asset,
-      caption,
-      published
+      marca_id: marca.id,
+      tipo: contentType,
+      idea: idea.descripcion,
+      idea_hint: idea.idea_hint,
+      caption: caption,
+      colores_brand: idea.colores_brand,
+      voz_marca: idea.voz_marca,
+      timestamp: new Date().toISOString()
     };
   }
 
   async processAll() {
-    console.log('\n🚀 CONTENT CREATOR AGENT - Daily Run');
-    console.log(`Timestamp: ${new Date().toISOString()}\n`);
+    console.log('\n\n🚀 AIMA CONTENT AGENT - Daily Brief Generator');
+    console.log(`🕐 ${new Date().toLocaleString()}\n`);
 
     const results = [];
     for (const marca of this.marcas) {
       try {
-        const result = await this.processMarc(marca.id);
+        const result = await this.processMarca(marca.id);
         results.push(result);
       } catch (error) {
-        console.error(`Error processing ${marca.nombre}:`, error.message);
+        console.error(`❌ Error: ${error.message}`);
       }
     }
 
-    // Guardar log
     this.saveLogs(results);
+    this.printSummary(results);
     return results;
   }
 
@@ -244,19 +165,31 @@ class ContentCreatorAgent {
       fs.mkdirSync(logsDir, { recursive: true });
     }
 
-    const logFile = path.join(logsDir, `content_${new Date().toISOString().split('T')[0]}.json`);
+    const date = new Date().toISOString().split('T')[0];
+    const logFile = path.join(logsDir, `ideas_${date}.json`);
     fs.writeFileSync(logFile, JSON.stringify(results, null, 2));
-    console.log(`\n📝 Logs saved to: ${logFile}`);
+    console.log(`\n📝 Ideas guardadas: ${logFile}`);
+  }
+
+  printSummary(results) {
+    console.log(`\n${'='.repeat(70)}`);
+    console.log(`📊 RESUMEN`);
+    console.log(`${'='.repeat(70)}`);
+    console.log(`Marcas procesadas: ${results.length}`);
+    console.log(`\n👉 Próximo paso para cada marca:`);
+    console.log(`   1. Lee la IDEA sugerida`);
+    console.log(`   2. Genera imagen en Higgsfield, Canva, o herramienta preferida`);
+    console.log(`   3. Copia el CAPTION`);
+    console.log(`   4. Publica en Instagram\n`);
   }
 }
 
-// Main
 const agent = new ContentCreatorAgent();
 
 const command = process.argv[2];
 if (command === '--marca') {
   const marcaId = process.argv[3];
-  agent.processMarc(marcaId).catch(console.error);
+  agent.processMarca(marcaId).catch(console.error);
 } else {
   agent.processAll().catch(console.error);
 }
