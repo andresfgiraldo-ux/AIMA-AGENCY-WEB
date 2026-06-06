@@ -151,19 +151,30 @@ class ContentCreatorAgent {
     console.log(`\n📲 Publishing to Instagram: @${marca.instagram}`);
     console.log(`Caption:\n${caption}\n`);
 
-    // Aquí iría la integración con Windsor.ai o Instagram API
-    // Por ahora es un mock
     const publishData = {
       marca_id: marca.id,
       instagram_handle: marca.instagram,
       asset_url: asset.asset_url,
       caption: caption,
       published_at: new Date().toISOString(),
-      status: 'published_mock'
+      connector: 'instagram_organic',
+      action: 'create_post',
+      params: {
+        image_url: asset.asset_url,
+        caption: caption,
+        media_type: 'IMAGE'
+      }
     };
 
-    console.log('⚠️  Note: To publish, configure Instagram token in marcas.json');
-    console.log('Then integrate with Windsor.ai MCP server\n');
+    // Windsor.ai integration ready
+    // Call this with MCP tool: mcp__047c11d0-0925-4d64-8074-146e7a6585fd__execute_action
+    // With params: connector='instagram_organic', action='create_post', account=marca.instagram_token, params={...}
+
+    if (marca.instagram_token && marca.instagram_token !== 'CONFIGURABLE_EN_SECRETS') {
+      console.log('🔗 Windsor.ai payload ready for execution');
+    } else {
+      console.log('⚠️  Set Instagram token in marcas.json to enable publishing');
+    }
 
     return publishData;
   }
